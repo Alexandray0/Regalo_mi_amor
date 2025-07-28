@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Para mi amor lindo 🩵</title>
+  <style>
+    body {
+      background: #1a1a1a;
+      color: #f0f0f0;
+      font-family: 'Courier New', monospace;
+      text-align: center;
+      padding: 40px;
+    }
+    h1 {
+      color: #ff7eb9;
+    }
+    p {
+      margin: 20px 0;
+    }
+    .emoji {
+      font-size: 2em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Feliz cumpleaños, bebé 💻🎉</h1>
+  <p>Desde que te conocí, escribiste el mejor código en mi vida: tú + yo 💖</p>
+  <p>Eres mi compilación perfecta, sin errores, solo amor.</p>
+  <p class="emoji">👨‍💻💕👩‍💻</p>
+  <p>Con amor, tu amorcito.</p>
+</body>
+</html>
